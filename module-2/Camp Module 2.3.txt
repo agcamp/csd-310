@@ -1,0 +1,29 @@
+NoSQL Data Structure:
+{
+ "first_name": "George",
+ "last_name": "Smith",
+ "Birthday": [
+ {
+ "Month": "11",
+ "Day": "23",
+ "Year": "1987",
+ }
+ ]
+	
+ "Roles": [
+ {
+ "Type": "Tech"
+ "Field": "Computer Repair"
+ },
+ {
+ "Type": "Team Lead"
+ "Field": "Computer Repair"
+ }
+ ]
+ "Dependents": [
+ {
+ "Son": "Paul"
+ "Son": "John"
+ ]
+ }
+
